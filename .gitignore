@@ -1,0 +1,3 @@
+# Team-specific values (Jira site, cloudId, Leave Plan space): copy team-defaults.example.json
+team-defaults.json
+*.bak

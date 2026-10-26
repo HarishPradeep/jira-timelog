@@ -1,0 +1,39 @@
+{
+  "year": 2026,
+  "country": "LK",
+  "verified": false,
+  "sources": [
+    "https://publicholidays.lk/",
+    "https://dailynews.lk/2025/12/28/local/922831/sri-lankas-2026-public-holidays-full-list-released/",
+    "Confluence 'Leave Plan 2026' note (special leave 2026-06-01)"
+  ],
+  "note": "Set verified=true once checked against the holiday image on the Leave Plan page. Weekend dates are listed for completeness; they are skipped anyway.",
+  "holidays": [
+    { "date": "2026-01-03", "name": "Duruthu Full Moon Poya Day" },
+    { "date": "2026-01-15", "name": "Tamil Thai Pongal Day" },
+    { "date": "2026-02-01", "name": "Navam Full Moon Poya Day" },
+    { "date": "2026-02-04", "name": "National Day" },
+    { "date": "2026-02-15", "name": "Mahasivarathri Day" },
+    { "date": "2026-03-02", "name": "Medin Full Moon Poya Day" },
+    { "date": "2026-03-21", "name": "Id Ul-Fitr" },
+    { "date": "2026-04-01", "name": "Bak Full Moon Poya Day" },
+    { "date": "2026-04-03", "name": "Good Friday" },
+    { "date": "2026-04-13", "name": "Day prior to Sinhala & Tamil New Year" },
+    { "date": "2026-04-14", "name": "Sinhala & Tamil New Year Day" },
+    { "date": "2026-05-01", "name": "May Day / Vesak Full Moon Poya Day" },
+    { "date": "2026-05-02", "name": "Day following Vesak Full Moon Poya Day" },
+    { "date": "2026-05-28", "name": "Id Ul-Alha" },
+    { "date": "2026-05-30", "name": "Adhi Poson Full Moon Poya Day" },
+    { "date": "2026-06-01", "name": "Company special leave (per Leave Plan page note)" },
+    { "date": "2026-06-29", "name": "Poson Full Moon Poya Day" },
+    { "date": "2026-07-29", "name": "Esala Full Moon Poya Day" },
+    { "date": "2026-08-26", "name": "Milad un-Nabi" },
+    { "date": "2026-08-27", "name": "Nikini Full Moon Poya Day" },
+    { "date": "2026-09-26", "name": "Binara Full Moon Poya Day" },
+    { "date": "2026-10-25", "name": "Vap Full Moon Poya Day" },
+    { "date": "2026-11-08", "name": "Deepavali" },
+    { "date": "2026-11-24", "name": "Il Full Moon Poya Day" },
+    { "date": "2026-12-23", "name": "Unduvap Full Moon Poya Day" },
+    { "date": "2026-12-25", "name": "Christmas Day" }
+  ]
+}

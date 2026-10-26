@@ -1,0 +1,28 @@
+﻿{
+  "jira": {
+    "cloudId": "<your-cloud-id>",
+    "site": "https://<your-site>.atlassian.net"
+  },
+  "timezone": "+05:30",
+  "minHours": 8,
+  "halfDayMinHours": 4,
+  "defaultMaxHours": 12,
+  "workdayStart": "09:00",
+  "halfDaySplit": "13:00",
+  "granularityMinutes": 15,
+  "catchUpDays": 10,
+  "reminderTime": "18:00",
+  "leavePlan": {
+    "spaceKey": "<SPACE-KEY>",
+    "titlePattern": "Leave Plan {year}",
+    "refreshDays": 7
+  },
+  "meetingsTicketHints": ["meeting", "meetings", "PR review"],
+  "tempoAppAccountId": "557058:295406f3-a1fc-4733-b906-dd15d021bd79",
+  "prReviewMinutes": { "voteOnly": 15, "fewComments": 30, "manyComments": 45, "manyCommentsThreshold": 3 },
+  "defaultMeetings": [
+    { "name": "Internal meeting", "aliases": ["Internal scrum", "Internal standup"], "days": ["Mon", "Tue", "Wed", "Thu", "Fri"], "start": "09:30", "minutes": 30, "askMinutes": [30, 60] },
+    { "name": "Scrum with Oslo team", "aliases": ["Oslo scrum", "Oslo standup", "Daily scrum"], "days": ["Mon", "Tue", "Wed", "Thu", "Fri"], "start": "14:30", "minutes": 20 },
+    { "name": "Refinement", "aliases": ["Backlog refinement", "Grooming"], "days": ["Thu"], "start": "12:30", "minutes": 60 }
+  ]
+}
